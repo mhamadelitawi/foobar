@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 lib/old
 properties/
+out/*
 
 ### STS ###
 .apt_generated
